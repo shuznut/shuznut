@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuznut
+- 👋 Hi, I’m Tharushika Hettiarachchi
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently reading Data Science Masters
 - 💞️ I’m looking to collaborate on in more Data Science Projects
