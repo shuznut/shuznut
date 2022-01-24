@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharushika Hettiarachchi
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Science domain
 - 🌱 I’m currently reading Data Science Masters
 - 💞️ I’m looking to collaborate on in more Data Science Projects
 - 📫 You can reach me via LinkedIn : _https://www.linkedin.com/in/thasah/_
